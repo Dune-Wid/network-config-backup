@@ -18,9 +18,4 @@ This script eliminates the need for manual SSH sessions and ensures that network
 4. **Error Handling:** Includes `try/except` blocks to gracefully handle connection timeouts or authentication failures.
 
 ## 💻 Example Output
-```text
-Attempting to connect to the router...
-Successfully connected!
-Pulling running configuration. This might take a few seconds...
-
-SUCCESS! Configuration saved to: Router_Backup_2026-05-16_13-30-00.txt
+![Working Script Demo](demo.png)
